@@ -4,6 +4,6 @@ layout: home
 permalink: /
 ---
 
-# Aiura's Blog
+# Welcome!
 
-This is my personal blog, all the things will be posted here. Enjoy staying here 😊
+Welcome to Aiura's Personal Blog site, enjoy staying here 😊
