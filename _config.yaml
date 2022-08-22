@@ -1,28 +1,22 @@
-
-title: Aiura's Blog
+title: 'Aiura's Blog'
 author: Aiuraa
 email: none@void.site
 description: > # this means to ignore newlines until "twitter_username:"
   A simple blogging post about everything i want to share to the world
   It may useful for some people but it's just personal pereference i think
-  
-# social links
-twitter_username: aiur4a
-github_username:  Aiuraa
-rss: rss
+url: "https://aiuraa.github.io"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-  skin: dark
+header_pages:
+  - index.md
+  - peter.md
+  - about.md
+  - contact.md
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
+style: dark
+footer: 'follow me on <a href="https://github.com/Aiuraa/">GitHub</a>'
 
-# Remote settings
-remote_theme:  jekyll/minima 
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
