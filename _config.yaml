@@ -13,7 +13,7 @@ header_pages:
   - index.md
   - about.md
 
-style: dark
+style: github
 footer: 'follow me on <a href="https://github.com/Aiuraa/">GitHub</a>'
 
 # Build settings
