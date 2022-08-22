@@ -4,16 +4,14 @@ email: none@void.site
 description: > # this means to ignore newlines until "twitter_username:"
   A simple blogging post about everything i want to share to the world
   It may useful for some people but it's just personal pereference i think
-  
+
 url: "https://aiuraa.github.io"
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
 header_pages:
   - index.md
-  - peter.md
   - about.md
-  - contact.md
 
 style: dark
 footer: 'follow me on <a href="https://github.com/Aiuraa/">GitHub</a>'
