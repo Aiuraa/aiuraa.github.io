@@ -13,8 +13,9 @@ header_pages:
   - index.md
   - about.md
 
-style: github
 footer: 'follow me on <a href="https://github.com/Aiuraa/">GitHub</a>'
+
+style: github-dimmed
 
 # Build settings
 markdown: kramdown
