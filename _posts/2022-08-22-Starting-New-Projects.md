@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting new Projects"
-categories: misc
+categories: development
 ---
 
 # Starting new Projects
