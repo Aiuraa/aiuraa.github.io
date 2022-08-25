@@ -36,7 +36,7 @@ switch (unused[0])
 
 The code itself looks innocent enough but if you look closer, it's not because the worst part is in the `unused` variable and the `case 0..100000` code which will make your AMX Binary Size go brrrr (having more than 100 MB size). Editing any of that code sizes will result in "Full Disk" error which the compiler cannot actually hold almost all of the binary code that is converted from Pawn, and so the final result is about ~700 MB (actually it's 172 MB capped) and it took 3 or 5 minutes to actually compiles it with Linux.
 
-![Look mom, i did it](/assets/2022-08-25/final-size.png)
+![Look mom, i did it](/assets/img/2022-08-25/final-size.png)
 
 You can actually try and build the code yourself by clicking [This link](https://github.com/Aiuraa/pawn-test-size) if you're curious if the code can actually compiles to 700 MB, the instructions and other things are also provided in the repo.
 
