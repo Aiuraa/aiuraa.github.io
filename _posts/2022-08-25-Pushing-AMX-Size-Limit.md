@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Pushing AMX Size Limit"
+categories: development
+---
 
 # Pushing AMX Size Limit
 Yesterday i made some little experiment based on my friend posts about having ~200 MB AMX size in a single Megabytes of code, originally i'm only explaining to him on how this size works and why should you care to the code, but i only get around ~11 to ~24 MB size of AMX which you can see below:
