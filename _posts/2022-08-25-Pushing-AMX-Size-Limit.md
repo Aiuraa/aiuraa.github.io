@@ -9,7 +9,9 @@ Yesterday i made some little experiment based on my friend posts about having ~2
 
 ![Me having 11 MB AMX Size](/assets/img/2022-08-25/first-size.png)
 
-This is just normal since my initial code, i'm only using a library called "YSI-Includes" especially on "y\_iterator/y\_foreach" which it will allocate whatever the size you put into the iterator. For example: `new Iterator: myIter<ITER_SIZE>;`, Let's just assume `ITER_SIZE` is `1000` placed in two or three seperate array which array is a byte so if i'm not wrong, the calculation should be like this `(1000 * 4) * 2` or `* 3` which can cause huge amount of megabytes but it's still be considered as ___Normal Size___ compared to what i'm about to share with you.
+This is just normal since my initial code, i'm only using a library called "YSI-Includes" especially on "y\_iterator/y\_foreach" which it will allocate whatever the size you put into the iterator, for example: `new Iterator: myIter<ITER_SIZE>;`. 
+
+Let's just assume `ITER_SIZE` is `1000` placed in two or three seperate array which array is a byte so if i'm not wrong, the calculation should be like this `(1000 * 4) * 2` or `* 3` which can cause huge amount of megabytes but it's still be considered as ___Normal Size___ compared to what i'm about to share with you.
 
 When i was sharing my code into a discord channel, A guy named Alex is Y\_Less came to me and give some really good piece of code on "How to make your AMX size go 1 GB" which makes me wonder "If it possible?, i mean so far i only witnessed 200 MB size and never saw beyond that number" and so i was thinking that he's joking but seeing how great he was in the community makes me want to challenge myself to trying reach 1 GB with any means and so the journey begins.
 
