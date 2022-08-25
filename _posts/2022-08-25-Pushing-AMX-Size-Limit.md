@@ -15,20 +15,18 @@ When i was sharing my code into a discord channel, A guy named Alex is Y\_Less c
 
 First, i went to make the code worst by using he's first code he gave me with 2d array which it looks like this:
 
-```pawn
+```c
 #define JUNK_SIZE 10_000
-
 new junk_function[JUNK_SIZE][JUNK_SIZE];
+
 ```
 
 This, with calculation that array will always multiplied by four `(size * 4)`, combined with another (`size * 4`) will give the results what i'm expected and thus i began to reach +100 MB first try. Then i try to add the second code he gave me about involving with `switch case` jump. As you can see, pawn `switch case` is really weird according to him and also have different behaviour compared to other languages `switch case` and that's why always using `if` and `else` might be better option than `switch case` if the checks you want to do is still _possible_ to do it with `if` and `else`.
 
 The code itself looks like this:
 
-```pawn
-
+```c
 new unused[JUNK_SIZE];
-
 switch (unused[0])
 {
     case 0..100000: { print("Hello World"); } 
