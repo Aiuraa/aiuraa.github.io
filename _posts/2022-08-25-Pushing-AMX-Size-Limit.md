@@ -40,7 +40,6 @@ The code itself looks innocent enough but if you look closer, it's not because t
 
 ![Look mom, i did it](/assets/img/2022-08-25/final-size.png)
 
-You can actually try and build the code yourself by clicking [This link](https://github.com/Aiuraa/pawn-test-size) if you're curious if the code can actually compiles to 700 MB, the instructions and other things are also provided in the repo.
+You can actually try and build the code yourself by clicking [This link](https://github.com/Aiuraa/test-pawn-size) if you're curious if the code can actually compiles to 700 MB, the instructions and other things are also provided in the repo.
 
 Since unfortunately i cannot make the binary beyond ~700 MB due to "allegedly" having the size capped (32 bit integer limit), i cannot do anything about it and thus ending my journey to getting the most huge size i've ever done and also teaching people about they should really care about their code or else it will look like that code where a few kilobytes of codes can give you __HUGE__ sizes due to worst code that you've been putting. 
-
