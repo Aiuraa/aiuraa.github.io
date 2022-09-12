@@ -12,8 +12,7 @@ I don't know how this country can be so bad at securing our data, but recently t
 
 (If you don't know anything about robin hood, you can look at [this article](https://en.wikipedia.org/wiki/Robin_Hood))
 
-People think that we should thank to the hacker for the data breach, i don't see any reason why we should thank to someone who sell our data though, it's just weird if we keep thinking about it.
-I just don't have any problem with him leaking anything he wants, but thanking him??? nahh mate i'm not into that.
+People think that we should thank to the hacker for the data breach, i don't see any reason why we should thank to someone who sell our data though, it's just weird if we keep thinking about it. I just don't have any problem with him leaking anything he wants, but thanking him??? nahh mate i'm not into that.
 
 And also i don't care about what the hacker might doing because the only thing matters for me is "How fucked up our govt right now", yes they're in a real situation where it proved our security isn't that great unlike other country.
 They should be the one who is responsible for the leak, and i want them to think how they can fix this instead of keep throwing the case and blame it to others or just says "Pls hacker stop attack us :cryemoji:" or "ok bois we going to catch him but how?"
